@@ -1,6 +1,7 @@
 # AS Calendar
 
-A website to display informations about
+A website to display informations about the Sport Assocation of the LIEP. <br />
+A Pronote (calendar function) for AS, display schedule and which prof is present
 
 ## Recommended IDE Setup
 
